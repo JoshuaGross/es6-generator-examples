@@ -1,0 +1,23 @@
+{
+  "name": "es6-generator-examples",
+  "version": "1.0.0",
+  "description": "Because it's still really fucking hard to find decent ES6 generator resources online.",
+  "main": "1.js",
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaGross/es6-generator-examples.git"
+  },
+  "author": "Joshua Gross <joshua.gross@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaGross/es6-generator-examples/issues"
+  },
+  "homepage": "https://github.com/JoshuaGross/es6-generator-examples#readme"
+}
